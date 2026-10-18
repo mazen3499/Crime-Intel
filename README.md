@@ -120,25 +120,25 @@ flowchart LR
 
 ### 2. Hotspots & Timing
 
-![Hotspots & Timing](dashboard/images/2_Hotspots_Timing.png)
+![Hotspots & Timing](Dashboard/Images/hotspots.png)
 
 A weekday by hour heatmap, incidents by weekday and by hour, and incidents by state. The weekday and hour charts count the 4,877 incidents that have a recorded time of day.
 
 ### 3. Suspect & Victim Profiles
 
-![Suspect & Victim Profiles](dashboard/images/3_Suspect_Victim_Profiles.png)
+![Suspect & Victim Profiles](Dashboard/Images/profiles.png)
 
 Age distributions for suspects and victims (recorded ages), a gender comparison and the race breakdown of identified suspects. The two peak-age header cards show the median fill values, 46 and 50 (see the data notes).
 
 ### 4. Trends & Seasonality
 
-![Trends & Seasonality](dashboard/images/4_Trends_Seasonality.png)
+![Trends & Seasonality](Dashboard/Images/trends.png)
 
 Year-over-year change, incidents per year, a month by year heatmap and the five most frequent crime types over time. The largest yearly rise is +8.5% (2024) and the largest drop is -5.6% (2023).
 
 ### 5. Financial Impact & Case Outcomes
 
-![Financial Impact & Case Outcomes](dashboard/images/5_Financial_Outcomes.png)
+![Financial Impact & Case Outcomes](Dashboard/Images/financial.png)
 
 Average recorded loss by crime type, weapon use, case resolution and case status, all on recorded values. Firearms lead at 37% of recorded weapons. The "Most used weapon" header card differs from the grouped chart (see the data notes).
 
