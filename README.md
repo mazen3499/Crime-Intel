@@ -11,7 +11,7 @@
 
 **A cleaned crime incident dataset and a five-page dark-mode Power BI command center for exploring where, when and how incidents were recorded.**
 
-![Executive Overview](dashboard/images/1_Executive_Overview.png)
+![Executive Overview](Dashboard/Images/overview.png)
 
 | 5,050 | 10 | 2018 to 2024 | 5 | 11 |
 |:---:|:---:|:---:|:---:|:---:|
@@ -235,7 +235,7 @@ The notebook was run end to end on Python 3.12. `requirements.txt` has not been 
 
 **Mazen Walid**
 
-Data Analyst | Python · SQL · Power BI · Machine Learning
+Data Analyst | Turning Data Into Decisions — Python, SQL, Excel, Power BI, Tableau & Problem-Solving
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mazen%20Walid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-walid)
 [![GitHub](https://img.shields.io/badge/GitHub-mazen3499-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazen3499)
